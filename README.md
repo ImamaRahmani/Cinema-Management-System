@@ -1,0 +1,2 @@
+# Cinema-Management-System
+For thousands of people outing to the cinema is definitely the best way to spend leisure-time, meet with  friends or have fun with family. Today there is a wide range of cinemas, movies and film shows for any  taste and budget. To enjoy your outing, you have to find the film you want then find the cinema that's  showing it, check the times, buy the tickets. Agree, it takes a lot of time and efforts. And here comes our  Cinema Management System.
